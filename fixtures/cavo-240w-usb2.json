@@ -1,0 +1,15 @@
+{
+  "nome": "Cavo 240 W solo USB 2.0 (quello del caricatore da 100 W)",
+  "raccolto": "2026-11-14, MacBook Pro M3, macOS 27.0.1, porta Port-USB-C@2, sul caricatore",
+  "sopPrimeVDOs": ["012b6018", "e2090000", "10695140", "40460a00"],
+  "atteso": {
+    "tipo": "passivo",
+    "vendorID": 11009,
+    "productID": 16465,
+    "velocita": "usb2",
+    "ampere": 5,
+    "volt": 50,
+    "epr": true,
+    "latenza": 2
+  }
+}

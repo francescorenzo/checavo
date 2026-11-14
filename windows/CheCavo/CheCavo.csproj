@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>CheCavo.App</RootNamespace>
+    <AssemblyName>CheCavo</AssemblyName>
+    <Product>CheCavo</Product>
+    <Version>0.1.0</Version>
+    <ApplicationIcon>Resources\CheCavo.ico</ApplicationIcon>
+    <!-- ThemeMode (the Fluent theme that follows light and dark) is marked experimental in WPF -->
+    <NoWarn>$(NoWarn);WPF0001</NoWarn>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Core\Core.csproj" />
+  </ItemGroup>
+
+</Project>

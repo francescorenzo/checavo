@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- What the Windows app and the probe share: decoding of what Windows answers (pure, tested on the Mac),
+       the read-only Windows calls, and the verdicts. -->
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>CheCavo.Windows</RootNamespace>
+    <AssemblyName>CheCavo.Core</AssemblyName>
+  </PropertyGroup>
+
+</Project>
