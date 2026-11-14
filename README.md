@@ -16,6 +16,8 @@ Ogni risposta dice anche quanto è sicura: *dichiarato dal chip*, *provato adess
 
 Se non sai quale PC Windows hai, quasi certamente è il primo (x64).
 
+📖 Come aprirla, come leggere i risultati e le domande frequenti: **[la guida](https://github.com/francescorenzo/checavo/wiki)**.
+
 ## Prima di usarla: i limiti, detti chiari
 
 CheCavo l'ho costruita con l'aiuto di Claude Code per le mie esigenze e l'ho provata con i miei cavi su **due computer soltanto**. Su altri modelli può comportarsi diversamente.
